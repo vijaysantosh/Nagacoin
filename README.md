@@ -1,0 +1,2 @@
+# Nagacoin
+new crypto
